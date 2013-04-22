@@ -1,0 +1,541 @@
+Solution at : 12.0°, saving : -1.0858 % 
+solution/21866740_building1.b17 
+     6000.0 
+     10.0 
+     9.0 
+     6.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.1424 % 
+solution/17933220_building1.b17 
+     6000.0 
+     11.0 
+     9.0 
+     6.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.1960 % 
+solution/24962279_building1.b17 
+     6000.0 
+     12.0 
+     9.0 
+     6.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.2470 % 
+solution/1346515_building1.b17 
+     6000.0 
+     13.0 
+     9.0 
+     6.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.2956 % 
+solution/29959477_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     6.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.3568 % 
+solution/12285785_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     7.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.4158 % 
+solution/3199106_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     8.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.4725 % 
+solution/17320380_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     9.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.5270 % 
+solution/29232906_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     10.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.5798 % 
+solution/6259058_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     11.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.6305 % 
+solution/15512193_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     12.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.6790 % 
+solution/19461870_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     13.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.7255 % 
+solution/11508030_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     14.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.7701 % 
+solution/28705408_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     15.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.8129 % 
+solution/21350489_building1.b17 
+     6000.0 
+     14.0 
+     9.0 
+     16.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.8593 % 
+solution/27959193_building1.b17 
+     6000.0 
+     14.0 
+     10.0 
+     16.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.9043 % 
+solution/2691004_building1.b17 
+     6000.0 
+     14.0 
+     11.0 
+     16.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 12.0°, saving : -1.9480 % 
+solution/6330655_building1.b17 
+     6000.0 
+     14.0 
+     12.0 
+     16.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 11.0°, saving : -2.0771 % 
+solution/28724842_building1.b17 
+     6000.0 
+     17.0 
+     12.0 
+     16.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 11.0°, saving : -2.1173 % 
+solution/31999426_building1.b17 
+     6000.0 
+     18.0 
+     12.0 
+     16.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 11.0°, saving : -2.1562 % 
+solution/23667197_building1.b17 
+     6000.0 
+     19.0 
+     12.0 
+     16.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 11.0°, saving : -2.1972 % 
+solution/22730182_building1.b17 
+     6000.0 
+     19.0 
+     12.0 
+     17.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 11.0°, saving : -2.2369 % 
+solution/22507120_building1.b17 
+     6000.0 
+     19.0 
+     12.0 
+     18.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 11.0°, saving : -2.2749 % 
+solution/6131844_building1.b17 
+     6000.0 
+     19.0 
+     12.0 
+     19.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 11.0°, saving : -2.3111 % 
+solution/24744797_building1.b17 
+     6000.0 
+     19.0 
+     12.0 
+     20.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 11.0°, saving : -2.3459 % 
+solution/18725445_building1.b17 
+     6000.0 
+     19.0 
+     12.0 
+     21.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 11.0°, saving : -2.3461 % 
+solution/25840096_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     21.0 
+     6.0 
+     45.0 
+     18.0 
+ 
+ Solution at : 11.0°, saving : -2.4758 % 
+solution/8470547_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     21.0 
+     6.0 
+     45.0 
+     19.0 
+ 
+ Solution at : 11.0°, saving : -2.6035 % 
+solution/16437003_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     21.0 
+     6.0 
+     45.0 
+     20.0 
+ 
+ Solution at : 11.0°, saving : -2.7296 % 
+solution/5998631_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     21.0 
+     6.0 
+     45.0 
+     21.0 
+ 
+ Solution at : 11.0°, saving : -2.8540 % 
+solution/22939763_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     21.0 
+     6.0 
+     45.0 
+     22.0 
+ 
+ Solution at : 11.0°, saving : -2.9768 % 
+solution/19297865_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     21.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.0020 % 
+solution/2739852_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     22.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.0263 % 
+solution/7226213_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     23.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.0497 % 
+solution/15014700_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     24.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.0723 % 
+solution/26506390_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     25.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.0940 % 
+solution/11544872_building1.b17 
+     6500.0 
+     19.0 
+     12.0 
+     26.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.1215 % 
+solution/15594377_building1.b17 
+     6500.0 
+     20.0 
+     12.0 
+     26.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.1479 % 
+solution/32689826_building1.b17 
+     6500.0 
+     21.0 
+     12.0 
+     26.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.1479 % 
+solution/28814882_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     26.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.1690 % 
+solution/2554341_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     27.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.1893 % 
+solution/15919682_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     28.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.2089 % 
+solution/20245380_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     29.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.2279 % 
+solution/26918187_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     30.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.2462 % 
+solution/19206130_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     31.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.2640 % 
+solution/25591289_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     32.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.2813 % 
+solution/29106105_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     33.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.2980 % 
+solution/26548428_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     34.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.3142 % 
+solution/400594_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     35.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.3296 % 
+solution/23954271_building1.b17 
+     7000.0 
+     21.0 
+     12.0 
+     36.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.3296 % 
+solution/26108059_building1.b17 
+     7500.0 
+     21.0 
+     12.0 
+     36.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.3530 % 
+solution/23603795_building1.b17 
+     7500.0 
+     21.0 
+     13.0 
+     36.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.3758 % 
+solution/14031599_building1.b17 
+     7500.0 
+     21.0 
+     14.0 
+     36.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ Solution at : 11.0°, saving : -3.3980 % 
+solution/12319324_building1.b17 
+     7500.0 
+     21.0 
+     15.0 
+     36.0 
+     6.0 
+     45.0 
+     23.0 
+ 
+ 
